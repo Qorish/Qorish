@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Qorish Faqihin!
-- 👀 I’m interested in Problem Solving...
-- 🌱 I’m currently learning Informatian & Security Assurance  ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @Qorish Faqihhin!
 
-<!---
-Qorish/Qorish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛡️ Cybersecurity Aspirant | Computer Science Student
+I am a **Bachelor of Computer Science (Hons)** student specializing in **Information Security and Assurance**. I am passionate about securing the digital landscape through proactive defense and forensic analysis.
+
+- 👀 **Interests:** Digital Forensics, Incident Response, and solving complex CTF challenges.
+- 🌱 **Learning:** Currently deepening my knowledge in Network Security and Advanced Threat Detection.
+- ✅ **Certified:** CompTIA Cybersecurity Analyst (CySA+).
+- 📫 **Reach Me:** [qfaqihin@gmail.com]
+
+---
+
+### 🛠️ Technical Toolkit
+* **Languages:** PHP, Python, Java, HTHML, Dart, C#
+* **Security Tools:** Kali Linux optimization, Wireshark, Autopsy, Registry Explorer, BurpSuite, Nessus
+* **Focus Areas:** Information Security, Digital Forensics, Problem Solving, IT
+
+
