@@ -84,22 +84,24 @@ Most of my recent work is in private repositories. Here is what I've implemented
 
 | Project | What it is |
 | --- | --- |
-| [electricity-calculator](https://github.com/Qorish/electricity-calculator) | Responsive electricity consumption calculator in vanilla PHP and Bootstrap 4 |
+| [electricity-calculator](https://github.com/Qorish/electricity-calculator) | Electricity cost calculator with a live running-cost meter, built with Next.js, React, TypeScript and Tailwind CSS |
 
 ## 📊 GitHub stats
 
+<!--LANGS:START-->
 Across all 8 of my repositories (2 public, 6 private), by lines of code on GitHub:
 
 | Language | Share | |
 | --- | ---: | --- |
-| Dart (Flutter) | 53% | `██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Dart | 53% | `██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░` |
 | TypeScript | 27% | `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | JavaScript | 8% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | CSS | 8% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| SQL (PL/pgSQL), HTML | 2% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| Native mobile and desktop files (C++, Swift, Kotlin, ...) | 3% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| PLpgSQL | 1% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Other | 2% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 
-<sub>Snapshot from 27 Oct 2026. Private repositories are included, which the usual stats cards can't do.</sub>
+<sub>Updated automatically on 27 Oct 2026. Private repositories are included, which the usual stats cards can't do.</sub>
+<!--LANGS:END-->
 
 ---
 
