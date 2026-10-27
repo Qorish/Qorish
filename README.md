@@ -88,11 +88,18 @@ Most of my recent work is in private repositories. Here is what I've implemented
 
 ## 📊 GitHub stats
 
-<div align="center">
+Across all 8 of my repositories (2 public, 6 private), by lines of code on GitHub:
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qorish&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Qorish)
+| Language | Share | |
+| --- | ---: | --- |
+| Dart (Flutter) | 53% | `██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░` |
+| TypeScript | 27% | `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| JavaScript | 8% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| CSS | 8% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| SQL (PL/pgSQL), HTML | 2% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Native mobile and desktop files (C++, Swift, Kotlin, ...) | 3% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 
-</div>
+<sub>Snapshot from 27 Oct 2026. Private repositories are included, which the usual stats cards can't do.</sub>
 
 ---
 
