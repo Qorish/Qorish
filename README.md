@@ -7,6 +7,8 @@
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
 ![BSc CS (Hons)](https://img.shields.io/badge/BSc_CS_(Hons)-Information_Security_%26_Assurance-203a43?style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-qfaqihin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qfaqihin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-qorish--portfolio.up.railway.app-2DD4BF?style=for-the-badge&logoColor=white)](https://qorish-portfolio.up.railway.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Qorish_Faqihin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/qorish-faqihin/)
 
 </div>
 
