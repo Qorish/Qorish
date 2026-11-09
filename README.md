@@ -100,7 +100,7 @@ Across all 8 of my repositories (2 public, 6 private), by lines of code on GitHu
 | PLpgSQL | 1% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | Other | 2% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 
-<sub>Updated automatically on 2 Nov 2026. Private repositories are included, which the usual stats cards can't do.</sub>
+<sub>Updated automatically on 9 Nov 2026. Private repositories are included, which the usual stats cards can't do.</sub>
 <!--LANGS:END-->
 
 ---
