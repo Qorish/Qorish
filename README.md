@@ -89,18 +89,18 @@ Most of my recent work is in private repositories. Here is what I've implemented
 ## 📊 GitHub stats
 
 <!--LANGS:START-->
-Across all 8 of my repositories (2 public, 6 private), by lines of code on GitHub:
+Across all 10 of my repositories (2 public, 8 private), by lines of code on GitHub:
 
 | Language | Share | |
 | --- | ---: | --- |
-| Dart | 53% | `██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░` |
-| TypeScript | 27% | `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Dart | 50% | `█████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| TypeScript | 30% | `███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| CSS | 9% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | JavaScript | 8% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| CSS | 8% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | PLpgSQL | 1% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | Other | 2% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 
-<sub>Updated automatically on 9 Nov 2026. Private repositories are included, which the usual stats cards can't do.</sub>
+<sub>Updated automatically on 16 Nov 2026. Private repositories are included, which the usual stats cards can't do.</sub>
 <!--LANGS:END-->
 
 ---
