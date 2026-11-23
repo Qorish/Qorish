@@ -93,14 +93,14 @@ Across all 10 of my repositories (2 public, 8 private), by lines of code on GitH
 
 | Language | Share | |
 | --- | ---: | --- |
-| Dart | 50% | `█████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| TypeScript | 30% | `███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| CSS | 9% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| JavaScript | 8% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Dart | 41% | `█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| TypeScript | 25% | `████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| JavaScript | 20% | `██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| CSS | 11% | `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | PLpgSQL | 1% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| Other | 2% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Other | 3% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 
-<sub>Updated automatically on 16 Nov 2026. Private repositories are included, which the usual stats cards can't do.</sub>
+<sub>Updated automatically on 23 Nov 2026. Private repositories are included, which the usual stats cards can't do.</sub>
 <!--LANGS:END-->
 
 ---
